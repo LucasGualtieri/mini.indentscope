@@ -103,6 +103,8 @@
 local MiniIndentscope = {}
 local H = {}
 
+print("USANDO FORK DO LUCAS 🎉")
+
 --- Module setup
 ---
 ---@param config table|nil Module config table. See |MiniIndentscope.config|.
